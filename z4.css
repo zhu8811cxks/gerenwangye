@@ -529,27 +529,27 @@ img {
 }
 
 .skills__html {
-  width: 60%;
+  width: 78%;
 }
 
 .skills__css{
-  width: 50%;
+  width: 56%;
 }
 
 .skills__js{
-  width: 30%;
+  width: 61%;
 }
 
 .skills__vue{
-  width: 10%;
+  width: 54%;
 }
 
 .skills__java{
-  width: 70%;
+  width: 20%;
 }
 
 .skills__python{
-  width: 50%;
+  width: 40%;
 }
 
 .skills__close .skills__list {
@@ -702,6 +702,14 @@ img {
 .swiper-pagination-bullet-active {
   background-color: var(--first-color);
 
+}
+.swiper-container {
+  position: relative; /* Ensure this is not 'static' */
+}
+
+.swiper-button-next, .swiper-button-prev {
+  position: absolute;
+  top: 50%; /* Adjust this based on where you want the arrows to be */
 }
 
 .swiper-button-prev, 
