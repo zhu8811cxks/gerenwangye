@@ -18,6 +18,7 @@
     "download":"查看个人相册",
     "skills__title":"个性",
     "skills__subtitle":"MBTI/空闲时间",
+    "skills__subtitle1":"MBTI",
     "skills__years":"ENFJ",
 
     "skills__title2":"空闲时间",
@@ -26,7 +27,7 @@
     "qualification__title":"资历",
     "qualification__subtitle":"个人履历",
     "education":"本科",
-    "work":"学生",
+    "work":"项目经历",
     "qualification1__title":"艺术与科技",
     "qualification1__subtitle":"浙江万里学院",
     "qualification2__title":"网页设计",
